@@ -1,5 +1,5 @@
-### Hello there 👋!
-* * *
+# Hello there 👋!
+<hr style="border:2px solid gray"> </hr>
 
 
 
